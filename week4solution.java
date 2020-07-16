@@ -11,6 +11,8 @@ Example:
 Input: {apple, orange, bannana, a, Android, purple, America, Amazon}
        target = ‘a’
 Output: {apple, orange, a, Android}
+
+Client would call groupFinder(target, input);
 */
 
 public class Solution {
